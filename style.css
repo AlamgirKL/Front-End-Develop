@@ -324,6 +324,7 @@ nav ul li a:hover:after{
 }
 .contact-left h1{
     font-size: 40px;
+    text-align: left;
 }
 .contact-right{
     flex-basis: 60%;
